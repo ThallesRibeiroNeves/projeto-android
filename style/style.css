@@ -202,6 +202,11 @@ footer > p > a{
     text-decoration: none;
 }
 
+footer a{
+    color: var(--cor3);
+    font-weight: bolder;
+}
+
 footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
